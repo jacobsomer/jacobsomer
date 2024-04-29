@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobsomer&show_icons=true&theme=tokyonight)
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobsomer&show_icons=true&theme=cobalt)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jacobsomer)
