@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🌟
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jacobsomer)
-- [X](https://x.com/jacobsomer)
+- [X](https://x.com/jacob_somer_)
 - [Personal Website](https://www.jacobsomer.com)
 
 ## Skills
