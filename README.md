@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/jacobsomer)
+- [Linkedin](https://www.linkedin.com/in/jacob-somer/)
 - [X](https://x.com/jacob_somer_)
 - [Personal Website](https://www.jacobsomer.com)
 
